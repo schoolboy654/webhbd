@@ -12,19 +12,19 @@ description: Дополненная реальность совсем скоро
 ## Применения дополненной реальности
 
 ### Образование
-![](https://redtigerprodassetstorage.blob.core.windows.net/filedata/2021/08/10/RWhFdj/c693ed44-03ae-41f1-a7cb-a9a7c2d23418.MicrosoftTeams-image.png)
+![](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/553/2019/02/HoloLens2_Education2-1000x667.jpg)
 Дополненная реальность сделает образование увлекательным, наглядным и будет мотивировать учеников. Детям понравятся школы будущего!
 
 ### Производство
-![](https://redtigerprodassetstorage.blob.core.windows.net/filedata/2021/08/10/RWhFdj/e77c4cea-64b0-44cd-88b9-35ff473f4acf.Manufacturing-Remote-Assist-ru-ru.png)
+![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWtxyV?ver=9e57&q=90&m=6&h=431&w=767&b=%23FFFFFFFF&l=f&o=t&x=901&y=280)
 Теперь инженеры могут полностью погрузиться в свои проекты.
 
 ### Здравоохранение
-![](https://redtigerprodassetstorage.blob.core.windows.net/filedata/2021/08/10/RWhFdj/6f53af72-8a42-434d-b030-30f30ff9bf36.Video_2.png)
+![](https://cloudblogs.microsoft.com/industry-blog/uploads/industry/sites/28/2020/03/HLS19_healthcare2Hologram_001-scaled.jpg)
 Все самое нужное в одном месте. Дополненная реальность позволит врачам быстрее начать лечение.
 
 ### Она будет повсюду!
-![](https://compass-ssl.surface.com/assets/1b/e8/1be843cc-4266-4685-9e29-7bc3b9cc5ac3.jpg?n=HoloLens_ALP_890_Hero_YoungConker_img.jpg)
+![](https://cdn.vox-cdn.com/uploads/chorus_image/image/48959229/XRAY_02.0.0.png)
 
 <p class="text-center">
 {% include elements/button.html link="https://docs.microsoft.com/ru-ru/windows/mixed-reality/discover/mixed-reality" text="Узнать больше" %}
