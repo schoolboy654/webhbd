@@ -1,27 +1,23 @@
 ---
 name: Виртуальная реальность
 tools: []
-image: https://scontent-hel3-1.xx.fbcdn.net/v/t39.8562-6/186861510_582240592738474_1977412821331251523_n.jpg
+image: https://d201n44z4ifond.cloudfront.net/wp-content/uploads/sites/6/2021/01/28193628/PCVR-AIO.jpg
 description: Виртуальная реальность дает нам возможность полностью погрузиться в цифровой мир.
 ---
 
-# Дополненная реальность
+# Виртуальная реальность
 
-![](https://scontent-hel3-1.xx.fbcdn.net/v/t39.8562-6/186861510_582240592738474_1977412821331251523_n.jpg)
+![](https://d201n44z4ifond.cloudfront.net/wp-content/uploads/sites/6/2021/01/28193628/PCVR-AIO.jpg)
 Виртуальная реальность дает нам возможность полностью погрузиться в цифровой мир.
 ## Применения дополненной реальности
 
 ### Образование
-![](https://scontent-hel3-1.xx.fbcdn.net/v/t39.2365-6/79481876_585039475578917_8348571796630405120_n.jpg)
+![](https://xd.adobe.com/ideas/wp-content/uploads/2019/10/Vr-3-1257x550.jpg)
 Виртуальная реальность позволит полностью погрузиться в урок. Больше не нужны презентации. Учебные материалы будут интерактивными, дети смогут взаимодействовать с ними своими руками!
 
 ### Развлечения
-![](https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982563_488358438684825_7191622828175654912_n.jpg)
+![](https://cdn.akamai.steamstatic.com/half-life.com/images/alyx/screens/halflife_alyx_8.jpg)
 Это гораздо увлекательнее плоских фильмов и видеоигр.
-
-### Здравоохранение
-![](https://cloudblogs.microsoft.com/industry-blog/uploads/industry/sites/28/2020/03/HLS19_healthcare2Hologram_001-scaled.jpg)
-Все самое нужное в одном месте. Дополненная реальность позволит врачам быстрее начать лечение.
 
 ### Тренировка космонавтов
 ![](https://assets-web-varjo.s3.eu-north-1.amazonaws.com/wp-content/uploads/2020/06/P1030329-600x303.png)
